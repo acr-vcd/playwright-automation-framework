@@ -1,4 +1,4 @@
-# Playwright Framework - API Tests
+# Playwright Framework - UI and API Tests
 
 UI and API test automation framework built with Playwright (JavaScript).
 
